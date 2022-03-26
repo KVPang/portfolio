@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+header {
+    display: flex; 
+    height: 80px;
+    line-height: 80px;
+    background-color: gray;
+}
+
+header > h1 {
+    background-color:#B0C4DE;
+    line-height: 1.4;
+    margin: 10px 0px 10px 0px;
+    padding: 0px 10px 0px 65px;
+    color: white;
+    font-family: serif; 
+    font-size: 45px;
+}
+
+nav > ul {
+    text-align: right;
+    padding: 5px 0px 10px 600px;
+    font-size: 17px;
+}
+
+li {
+    display: inline;
+    padding: 0 20px;
+}
+
+a {
+    color: #B0C4DE;
+}
+
+/*media queries (flex)*/
+
+footer > ul {
+    text-align: right; 
+}
+
