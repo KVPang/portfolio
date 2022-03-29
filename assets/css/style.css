@@ -89,6 +89,7 @@ aside {
 
 /*  S T A R T - H E R E */
 
+
 .work {
     flex:auto;
     flex-wrap: wrap;
@@ -139,7 +140,8 @@ img:hover {
     border-width: 3px;
     border-radius: 35px;
     padding: 10px;
-    position:relative; 
+
+    /* position:relative;  */
     flex-wrap: wrap;
     box-shadow: 10px black;
     margin: 20px;

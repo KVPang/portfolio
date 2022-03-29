@@ -2,8 +2,6 @@
 
 ## Acceptance Criteria
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
-
 ```
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
@@ -21,7 +19,15 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 ## Mock-Up
+```
 ![portfolio](./assets/images/Portfolio.JPG)
 
+![portfolio](./assets/images/Portfolio%20(2).JPG)
+```
+
 ## Links
+```
 https://github.com/KVPang/portfolio
+
+https://kvpang.github.io/portfolio/
+```
