@@ -19,15 +19,12 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 ## Mock-Up
-```
 ![portfolio](./assets/images/Portfolio.JPG)
 
 ![portfolio](./assets/images/Portfolio%20(2).JPG)
-```
+
 
 ## Links
-```
 https://github.com/KVPang/portfolio
 
 https://kvpang.github.io/portfolio/
-```
